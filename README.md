@@ -3,13 +3,6 @@
 ## A clean, beautiful and responsive portfolio template for Developers!
 
 
-<p align="center">
-  <kbd>
-<img src="https://user-images.githubusercontent.com/49693820/81296489-999abf00-908f-11ea-9442-75e8f0ecf65d.gif"></img>
-  </kbd>
-</p>
-
-
 Just change `src/portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 
 But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/lucasguenebaud/developerFolio/issues).
