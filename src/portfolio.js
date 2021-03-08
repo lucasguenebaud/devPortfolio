@@ -9,7 +9,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hey, I'm Lucas !",
   subTitle: "Robotics engineer, software nerd and AI enthusiast !",
-  resumeLink: "https://drive.google.com/file/d/1hIQYprXoW6sIEXM571SL_7ZZXwIIYWZc/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1A4r_ud6BVbBXqNTB7gPrjqpNu92x8nkX/view?usp=sharing"
 };
 
 // Your Social Media Link
@@ -32,9 +32,9 @@ const skillsSection = {
   title: "What i do",
   subTitle: "I'm crazy about machine learning and data science, and how it can power technologies !",
   skills: [
-    emoji("⚡ TODO"),
-    emoji("⚡ TODO"),
-    emoji("⚡ TODO"),
+    emoji("⚡ Robots"),
+    emoji("⚡ AI"),
+    emoji("⚡ Data"),
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -301,12 +301,12 @@ const blogSection = {
     {
       url: "https://wikipedia.com",
       title: "This a title",
-      description: "This is a text"
+      description: "Placeholder"
     },
     {
       url: "https://medium.com/@lucas.guenebaud",
       title: "Medium article",
-      description: "SQUALALAAAAA, nous sommes partis !"
+      description: "Placeholder"
     }
   ]
 };
@@ -315,7 +315,7 @@ const blogSection = {
 
 const talkSection = {
   title: "Trainings",
-  subtitle: emoji("Sharing my limited knowledge with others"),
+  subtitle: emoji("Sharing my knowledge with others"),
 
   talks: [
     {
